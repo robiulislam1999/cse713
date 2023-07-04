@@ -1,1 +1,2 @@
 # CSE707_Group_Task_Group_13
+This is a repository for CSE713 ADVANCED SYNTACTIC PATTERN RECOGNITION
