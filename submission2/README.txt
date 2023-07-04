@@ -8,7 +8,7 @@ Paper title:
 Operating Machine Learning across Natural Language Processing Techniques for Improvement of Fabricated News Model
 
 Link to the paper:
-https://github.com/robiulislam1999/cse707/tree/main/submission2
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4251017&fbclid=IwAR3uExePGmNCHGjFuvF75bM5N3kVk2IDy_6rvjdsm-u9Gp8D7mjYP8y5j8o
 
 Group Number:
 13
