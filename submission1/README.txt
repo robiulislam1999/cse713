@@ -1,4 +1,4 @@
-# CSE707_Group_Task_Group_13
+# CSE713_Group_Task_Group_13
 This is a repository for CSE713 ADVANCED SYNTACTIC PATTERN RECOGNITION
 
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
