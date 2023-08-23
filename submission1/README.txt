@@ -8,10 +8,10 @@ Link to unlisted YouTube video:
 https://studio.youtube.com/playlist/PLCHm62HYU7LvVnUUZy3ylmyJhlJEI1zQe/videos
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1yqhQKSzAzTnebz2GGsC7_-WsxTrlvWbaNA-7Nik-6O4/edit?usp=sharing
+https://docs.google.com/presentation/d/1V8Idw3o82IkbbJXgpKnQXfslhi7_P1iW/edit?usp=drive_link&ouid=117800733868083002020&rtpof=true&sd=true 
 
 Project title:
-Speech Analysis Using NLP and Deep Learning to Detect Scam Advertisements
+Text Analysis Using NLP and Deep Learning to Detect Scam Advertisements
 
 Group Number:
 13
