@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/64968cf05563d514fb892d66
 
 Unlisted YouTube video:
-https://youtu.be/vzQj77MnQ-k
+https://youtu.be/LIkiF59nuE4
 
 Paper title:
 Text Analysis Using NLP and Deep Learning to Detect Scam Advertisements
