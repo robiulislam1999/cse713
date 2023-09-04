@@ -5,7 +5,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/shhzppbhgwhg
 
 Link to unlisted YouTube video:
-https://studio.youtube.com/playlist/PLCHm62HYU7LvVnUUZy3ylmyJhlJEI1zQe/videos
+https://www.youtube.com/@md.robiulislam6313/playlists
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1V8Idw3o82IkbbJXgpKnQXfslhi7_P1iW/edit?usp=drive_link&ouid=117800733868083002020&rtpof=true&sd=true 
