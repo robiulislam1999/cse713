@@ -2,7 +2,7 @@
 This is a repository for CSE713 ADVANCED SYNTACTIC PATTERN RECOGNITION
 
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/read/shhzppbhgwhg
+https://www.overleaf.com/5965165671brhrxksgkbqv
 
 Link to unlisted YouTube video:
 https://youtu.be/13_ara7Cd50
